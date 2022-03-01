@@ -17,7 +17,7 @@ Our program will ask the user if they want a random number. If the user inputs a
 * Download SCI JupiterHub or go to the website online and log in with your account 
 * Open up the terminal on JupiterHub
 * Type in `git clone https://github.com/cdornn/bigideas-skills-lab-6.git` and press enter 
-* This should download to your JupyterHub
+* This should download a folder to your JupyterHub
 
 ## How to contribute
 
