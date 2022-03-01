@@ -20,7 +20,7 @@ Our program will ask the user if they want a random number. If the user inputs a
 
 ## How to contribute
 
-Your help is appreciated!
+Please read the Code of Conduct before you submit any changes. Your help is appreciated!
 
 * Fork the project
 * Make your changes
