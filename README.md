@@ -11,9 +11,14 @@ Our program will ask the user if they want a random number. If the user inputs a
 * Download jupiterhub or go to the website online and log in with your account 
 * After you join jupiterhub you should start a new terminal
 * In the terminal, type `git clone https://github.com/cdornn/bigideas-skills-lab-6.git` and press enter 
-* After the folder downloads, double click the `nano.save` file to launch the program
 
 ## How to contribute
+
+Your help is appreciated!
+
+* Fork the project
+* Make your changes to the project
+* Submit a pull request
 
 ## Code of Conduct
 
