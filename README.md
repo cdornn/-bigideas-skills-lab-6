@@ -1,11 +1,17 @@
 ## Getting Started
 
 ### Description
+
 This is our assignment for the Version Control and Plaintext and FOSS Skill Lab in CMPINF 0010.
 
 Our program will ask the user if they want a random number. If the user inputs a Y, they'll get a random number. If the user inputs an N, they'll get a prompt for one more confirmation. If the user replies with another N, the program will respond to the user and stop.
 
 ### Installation
+
+* Download jupiterhub or go to the website online and log in with your account 
+* After you join jupiterhub you should start a new terminal
+* In the terminal, type `git clone https://github.com/cdornn/bigideas-skills-lab-6.git` and press enter 
+* After the folder downloads, double click the `nano.save` file to launch the program
 
 ## How to contribute
 
