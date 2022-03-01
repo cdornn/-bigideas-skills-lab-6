@@ -2,6 +2,10 @@
 
 This is our assignment for the Version Control and Plaintext and FOSS Skill Lab in CMPINF 0010.
 
+**Group Members:**
+* Camryn Dorney
+* Eric Lim
+
 ## Getting Started
 
 ### Description
