@@ -17,7 +17,7 @@ Our program will ask the user if they want a random number. If the user inputs a
 Your help is appreciated!
 
 * Fork the project
-* Make your changes to the project
+* Make your changes
 * Submit a pull request
 
 ## Code of Conduct
